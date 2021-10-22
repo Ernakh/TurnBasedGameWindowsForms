@@ -1,0 +1,16 @@
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\bin\Debug\Projeto.exe.config
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\bin\Debug\Projeto.exe
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\bin\Debug\Projeto.pdb
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.csproj.CopyComplete
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.exe
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.pdb
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.JSON.resources
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.XML.resources
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.Aula01.resources
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.Aula01_inloco.resources
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.Aula02_inloco.resources
+D:\OneDrive\Aulas\UFN - UNIFRA\Curso - Tecnólogo em Jogos Digitais\TJD OP - Banco de dados e CSharp\Projeto CSharp\Projeto\Projeto\obj\Debug\Projeto.Jogo1.resources
